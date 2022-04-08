@@ -23,7 +23,7 @@
         "ext-mbstring": "*",
         "ext-gd": "*",
         "ext-json": "*",
-        "yanzicms/light-rail": "dev-master"
+        "yanzicms/light-rail": "0.1.1"
     },
     "require-dev": {
         "yanzicms/light-rail": "dev-master"
