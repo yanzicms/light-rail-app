@@ -1,5 +1,5 @@
 {
-    "name": "yanzicms/lightRailApp",
+    "name": "yanzicms/light-rail-app",
     "type": "project",
     "description": "lightRail framework application",
     "keywords": [
@@ -8,8 +8,8 @@
     ],
     "license": "Apache-2.0",
     "support": {
-        "issues": "https://github.com/yanzicms/lightRailApp/issues",
-        "source": "https://github.com/yanzicms/lightRailApp"
+        "issues": "https://github.com/yanzicms/light-rail-app/issues",
+        "source": "https://github.com/yanzicms/light-rail-app"
     },
 	"authors": [
         {
