@@ -22,10 +22,10 @@
         "ext-mbstring": "*",
         "ext-gd": "*",
         "ext-json": "*",
-        "yanzicms/light-rail": "^0.1.*"
+        "yanzicms/light-rail": "^0.1"
     },
     "require-dev": {
-        "yanzicms/light-rail": "^0.1.*"
+        "yanzicms/light-rail": "^0.1"
     },
     "autoload": {
         "psr-4": {
