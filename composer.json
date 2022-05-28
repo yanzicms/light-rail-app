@@ -30,7 +30,9 @@
     },
     "autoload": {
         "psr-4": {
-            "app\\": "application/"
+            "app\\": "application/",
+			"plugin\\": "plugins/",
+			"theme\\": "public/theme/"
         }
     },
     "autoload-dev": {
